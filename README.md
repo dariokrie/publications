@@ -1,19 +1,25 @@
-# publications
+# Publications
 
-## Project setup
+Overview website of all my publications.
+
+## Production
+https://publications-three.vercel.app/
+
+## 🧪 Pipelines
+- Github Pages with Vercel
+
+## 🔨 Build
+
+Publications is a Vue 3 + TypeScript + TailwindCSS application.
+
 ```
-yarn install
+yarn
 ```
 
-### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn start
 ```
 
-### Compiles and minifies for production
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
